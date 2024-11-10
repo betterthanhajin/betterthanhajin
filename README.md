@@ -12,7 +12,7 @@ As a developer, I aim to create software that resonates with users and meets bus
   <img
     src="https://render.gitanimals.org/lines/betterthanhajin"
     width="600"
-    height="120"
+    height="10"
   />
 </a>
 <a href="https://github.com/devxb/gitanimals">
