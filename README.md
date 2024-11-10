@@ -16,6 +16,16 @@ As a developer, I aim to create software that resonates with users and meets bus
   />
 </a>
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/betterthanhajin?pet-id=634945064687717493"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 ### Skills 🛠️
 
 ### Application Development
