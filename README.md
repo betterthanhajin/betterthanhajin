@@ -42,6 +42,23 @@ As a developer, I aim to create software that resonates with users and meets bus
     height="120"
   />
 </a>
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/betterthanhajin?pet-id=636140913564675702"
+    width="600"
+    height="120"
+  />
+</a>
+  
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/betterthanhajin?pet-id=638941310062572921"
+    width="600"
+    height="120"
+  />
+</a>
   
   
   
