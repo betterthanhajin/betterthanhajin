@@ -8,6 +8,8 @@ Hello, I'm Lee Ha-jin, a front-end developer committed to crafting impactful ser
 
 As a developer, I aim to create software that resonates with users and meets business objectives efficiently. I possess a keen interest in both front-end and back-end development, ensuring that all aspects of application development are approached with precision and creativity.
 
+[![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=betterthanhajin&limit=4&theme=dracula&combine_all_yearly_contributions=true)](https://github.com/XPEnology-Community/github-contributor-stats)
+
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/betterthanhajin"
