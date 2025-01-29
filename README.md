@@ -1,6 +1,8 @@
 ### Lee Ha-jin | Front-End Developer 🚀 Aiming for Full-Stack Mastery
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=betterthanhajin&show_icons=true&theme=dracula&hide_border=true" width="400px">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=betterthanhajin" />
+</a>
 
 Hello, I'm Lee Ha-jin, a front-end developer committed to crafting impactful services and enhancing user experiences through intuitive and innovative software solutions.
 
