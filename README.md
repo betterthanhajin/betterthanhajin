@@ -1,16 +1,16 @@
 ### Lee Ha-jin | Front-End Developer 🚀 Aiming for Full-Stack Mastery
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=betterthanhajin" />
-</a>
-
 Hello, I'm Lee Ha-jin, a front-end developer committed to crafting impactful services and enhancing user experiences through intuitive and innovative software solutions.
 
 ### About Me 📖
 
 As a developer, I aim to create software that resonates with users and meets business objectives efficiently. I possess a keen interest in both front-end and back-end development, ensuring that all aspects of application development are approached with precision and creativity.
 
-[![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=betterthanhajin&limit=4&theme=dracula&combine_all_yearly_contributions=true)](https://github.com/XPEnology-Community/github-contributor-stats)
+![Profile Details](./profile-summary-card-output/nord_dark/0-profile-details.svg)
+![Top Languages](./profile-summary-card-output/nord_dark/1-repos-per-language.svg)
+![Commits](./profile-summary-card-output/nord_dark/3-stats.svg)
+![Productive Time](./profile-summary-card-output/nord_dark/4-productive-time.svg)
+
 
 <a href="https://github.com/devxb/gitanimals">
   <img
