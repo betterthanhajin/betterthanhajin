@@ -1,0 +1,22 @@
+name: Generate summary cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH: main
+          THEME: nord_dark
+          OUTPUT_DIR: profile-summary-card-output
